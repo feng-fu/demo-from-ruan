@@ -1,0 +1,13 @@
+{
+  "name": "simple-app-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"webpack app.js bundle.js",
+    "test":"..."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
